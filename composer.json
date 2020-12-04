@@ -4,7 +4,7 @@
   "type": "module",
   "require": {
     "php": ">=7.4.0",
-    "Cheesecake-Validator-Email: "^1.0"
+    "Cheesecake-Validator-Email: ">=1.0"
   },
   "license": "Apache-2.0",
   "authors": [

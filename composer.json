@@ -3,8 +3,7 @@
   "description": "Validators for Cheesecake",
   "type": "module",
   "require": {
-    "php": ">=7.4.0",
-    "cheesecake/cheesecake-validator-email": ">=1.0"
+    "php": ">=7.4.0"
   },
   "license": "Apache-2.0",
   "authors": [

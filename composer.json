@@ -5,6 +5,11 @@
   "require": {
     "php": ">=7.4.0"
   },
+  "autoload": {
+      "psr-4": {
+          "Cheesecake\\Validator\\": "src"
+      }
+  },
   "license": "Apache-2.0",
   "authors": [
     {
